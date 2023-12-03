@@ -22,20 +22,12 @@ class Solution(object):
         for i in mp.values():
             while i[-1] == " ":
                 i.pop()
-        for i , l in enumerate(mp.values()):
-            for j in l:
-                ans[i] += j
+        for i,l in enumerate(mp.values()):
+            ans[i] = ''.join(l)
             
-        
 
-        
         return ans
         
-
-
-
-
-        return " "
 
 
 
