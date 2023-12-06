@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        n = len(nums)
+        n = len(nums)//3
         result = []
 
         count = {}
@@ -13,7 +13,7 @@ class Solution(object):
             count[i] = count.get(i , 0) + 1
         
         for key in count.keys():
-            if count[key] > n//3:
+            if count[key] > n:
                 result.append(key)
         
         return result
