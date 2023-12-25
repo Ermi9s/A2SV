@@ -8,7 +8,8 @@ class Solution:
         matrix.clear()
 
         for i in transpose:
-            matrix.append(list(i[::-1]))
+            i = list(i)
+            matrix.append(i[::-1])
 
     
 
