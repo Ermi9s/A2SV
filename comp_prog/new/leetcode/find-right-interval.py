@@ -2,7 +2,7 @@ class Solution:
     def findRightInterval(self, intervals: List[List[int]]) -> List[int]:
         ans = []
         ref = sorted([(intervals[i][0] , i) for i in range(len(intervals))])
-        print(ref)
+    
         def search(num):
             l = -1
             r = len(ref)-1
