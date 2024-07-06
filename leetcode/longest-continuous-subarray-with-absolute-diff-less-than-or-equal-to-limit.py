@@ -13,9 +13,7 @@ class Solution:
             
             incque.append([i , nums[i]])
             decque.append([i , nums[i]])
-            # print(decque)
-            # print(incque)
-
+           
             while incque and decque and (decque[0][1] - incque[0][1]) > limit:
                 print(s, i)
                 if s == decque[0][0]:
@@ -25,17 +23,9 @@ class Solution:
 
                 s += 1
 
-           
-            # print("-------")
-
-            # start = min(incque[0][0] , decque[0][0])
-
-            # end = max(incque[-1][0] , decque[-1][0])
-
             ans = max(ans , (i - s + 1))
 
-            
-
+        
         return ans 
     
 
