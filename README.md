@@ -40,4 +40,12 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Ermi9s/A2SV/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Ermi9s/A2SV/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
