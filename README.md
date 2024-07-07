@@ -48,4 +48,9 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Ermi9s/A2SV/tree/master/1642-water-bottles) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Ermi9s/A2SV/tree/master/2299-merge-nodes-in-between-zeros) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Ermi9s/A2SV/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
