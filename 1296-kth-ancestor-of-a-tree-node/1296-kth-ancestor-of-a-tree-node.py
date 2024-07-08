@@ -1,7 +1,5 @@
 class TreeAncestor:
-
     def __init__(self, n: int, parent: List[int]):
-        self.n = n
         self.LOG = 0
         self.depth = [0 for _ in range(n)]
         graph = defaultdict(list)
@@ -23,8 +21,6 @@ class TreeAncestor:
 
         for i in range(n):
             self.pre[i][0] = parent[i]
-            if i != 0:
-                self.depth[i] = self.depth[parent[i]] + 1
 
         for j in range(1 , self.LOG):
             for i in range(n):
