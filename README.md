@@ -9,6 +9,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0164-maximum-gap](https://github.com/Ermi9s/A2SV/tree/master/0164-maximum-gap) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Ermi9s/A2SV/tree/master/1803-average-waiting-time) |
 | [2176-parallel-courses-iii](https://github.com/Ermi9s/A2SV/tree/master/2176-parallel-courses-iii) |
@@ -66,11 +67,13 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Greedy
 |  |
 | ------- |
+| [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ermi9s/A2SV/tree/master/0164-maximum-gap) |
+| [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Bucket Sort
 |  |
@@ -97,4 +100,8 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ermi9s/A2SV/tree/master/0199-binary-tree-right-side-view) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 <!---LeetCode Topics End-->
