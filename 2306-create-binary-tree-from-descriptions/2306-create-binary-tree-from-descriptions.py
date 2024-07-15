@@ -28,6 +28,7 @@ class Solution:
         for par,ch,is_left in descriptions:
             if is_parent[par]:
                 root = mp[par]
+                break
         
         return root
 
