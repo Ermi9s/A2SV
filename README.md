@@ -42,6 +42,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ermi9s/A2SV/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Ermi9s/A2SV/tree/master/1559-cherry-pickup-ii) |
 | [1637-string-compression-ii](https://github.com/Ermi9s/A2SV/tree/master/1637-string-compression-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ermi9s/A2SV/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -187,6 +188,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1197-parsing-a-boolean-expression](https://github.com/Ermi9s/A2SV/tree/master/1197-parsing-a-boolean-expression) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ermi9s/A2SV/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ermi9s/A2SV/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1637-string-compression-ii](https://github.com/Ermi9s/A2SV/tree/master/1637-string-compression-ii) |
 | [1720-crawler-log-folder](https://github.com/Ermi9s/A2SV/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ermi9s/A2SV/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
