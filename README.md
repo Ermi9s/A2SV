@@ -20,6 +20,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Ermi9s/A2SV/tree/master/1720-crawler-log-folder) |
+| [1794-minimize-deviation-in-array](https://github.com/Ermi9s/A2SV/tree/master/1794-minimize-deviation-in-array) |
 | [1803-average-waiting-time](https://github.com/Ermi9s/A2SV/tree/master/1803-average-waiting-time) |
 | [2176-parallel-courses-iii](https://github.com/Ermi9s/A2SV/tree/master/2176-parallel-courses-iii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ermi9s/A2SV/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -105,6 +106,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1794-minimize-deviation-in-array](https://github.com/Ermi9s/A2SV/tree/master/1794-minimize-deviation-in-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ermi9s/A2SV/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
@@ -152,6 +154,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
+| [1794-minimize-deviation-in-array](https://github.com/Ermi9s/A2SV/tree/master/1794-minimize-deviation-in-array) |
 ## String
 |  |
 | ------- |
@@ -231,4 +234,8 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
+## Ordered Set
+|  |
+| ------- |
+| [1794-minimize-deviation-in-array](https://github.com/Ermi9s/A2SV/tree/master/1794-minimize-deviation-in-array) |
 <!---LeetCode Topics End-->
