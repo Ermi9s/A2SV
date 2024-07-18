@@ -86,6 +86,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0060-permutation-sequence](https://github.com/Ermi9s/A2SV/tree/master/0060-permutation-sequence) |
 | [1642-water-bottles](https://github.com/Ermi9s/A2SV/tree/master/1642-water-bottles) |
+| [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
 | [2556-convert-the-temperature](https://github.com/Ermi9s/A2SV/tree/master/2556-convert-the-temperature) |
 ## Simulation
 |  |
@@ -109,6 +110,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1794-minimize-deviation-in-array](https://github.com/Ermi9s/A2SV/tree/master/1794-minimize-deviation-in-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ermi9s/A2SV/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
 ## Tree
 |  |
 | ------- |
