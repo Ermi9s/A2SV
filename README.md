@@ -8,6 +8,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ermi9s/A2SV/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 | [0164-maximum-gap](https://github.com/Ermi9s/A2SV/tree/master/0164-maximum-gap) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
@@ -23,6 +24,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ermi9s/A2SV/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ermi9s/A2SV/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Ermi9s/A2SV/tree/master/0131-palindrome-partitioning) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -58,6 +60,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Math
 |  |
@@ -139,6 +142,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ermi9s/A2SV/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ermi9s/A2SV/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ermi9s/A2SV/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ermi9s/A2SV/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -167,4 +171,5 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ermi9s/A2SV/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
