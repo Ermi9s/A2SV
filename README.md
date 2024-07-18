@@ -62,6 +62,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0199-binary-tree-right-side-view](https://github.com/Ermi9s/A2SV/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ermi9s/A2SV/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -142,6 +143,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ermi9s/A2SV/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ermi9s/A2SV/tree/master/0199-binary-tree-right-side-view) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ermi9s/A2SV/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ermi9s/A2SV/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -155,6 +157,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ermi9s/A2SV/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ermi9s/A2SV/tree/master/0199-binary-tree-right-side-view) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ermi9s/A2SV/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ermi9s/A2SV/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ermi9s/A2SV/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -177,6 +180,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0884-k-similar-strings](https://github.com/Ermi9s/A2SV/tree/master/0884-k-similar-strings) |
 | [0973-stamping-the-sequence](https://github.com/Ermi9s/A2SV/tree/master/0973-stamping-the-sequence) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ermi9s/A2SV/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ermi9s/A2SV/tree/master/1197-parsing-a-boolean-expression) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ermi9s/A2SV/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
