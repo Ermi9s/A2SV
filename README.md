@@ -14,6 +14,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0814-smallest-rotation-with-highest-score](https://github.com/Ermi9s/A2SV/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -33,6 +34,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ermi9s/A2SV/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ermi9s/A2SV/tree/master/0131-palindrome-partitioning) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2176-parallel-courses-iii](https://github.com/Ermi9s/A2SV/tree/master/2176-parallel-courses-iii) |
 ## Graph
@@ -156,6 +158,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0131-palindrome-partitioning](https://github.com/Ermi9s/A2SV/tree/master/0131-palindrome-partitioning) |
 | [0884-k-similar-strings](https://github.com/Ermi9s/A2SV/tree/master/0884-k-similar-strings) |
 | [0973-stamping-the-sequence](https://github.com/Ermi9s/A2SV/tree/master/0973-stamping-the-sequence) |
+| [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ermi9s/A2SV/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ermi9s/A2SV/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ermi9s/A2SV/tree/master/1818-maximum-score-from-removing-substrings) |
