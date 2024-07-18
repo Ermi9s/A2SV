@@ -12,6 +12,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0164-maximum-gap](https://github.com/Ermi9s/A2SV/tree/master/0164-maximum-gap) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -92,6 +93,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ermi9s/A2SV/tree/master/0044-wildcard-matching) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ermi9s/A2SV/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -99,6 +101,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ermi9s/A2SV/tree/master/0164-maximum-gap) |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Ermi9s/A2SV/tree/master/2846-robot-collisions) |
@@ -138,6 +141,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 ## String
 |  |
