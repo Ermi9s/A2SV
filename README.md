@@ -15,6 +15,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -54,6 +55,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0199-binary-tree-right-side-view](https://github.com/Ermi9s/A2SV/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
+| [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ermi9s/A2SV/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -64,6 +66,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
 | [0884-k-similar-strings](https://github.com/Ermi9s/A2SV/tree/master/0884-k-similar-strings) |
+| [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Memoization
 |  |
@@ -180,6 +183,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ermi9s/A2SV/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ermi9s/A2SV/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Recursion
