@@ -56,6 +56,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ermi9s/A2SV/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0884-k-similar-strings](https://github.com/Ermi9s/A2SV/tree/master/0884-k-similar-strings) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Memoization
 |  |
@@ -143,6 +144,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0087-scramble-string](https://github.com/Ermi9s/A2SV/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Ermi9s/A2SV/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Ermi9s/A2SV/tree/master/0131-palindrome-partitioning) |
+| [0884-k-similar-strings](https://github.com/Ermi9s/A2SV/tree/master/0884-k-similar-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ermi9s/A2SV/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ermi9s/A2SV/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ermi9s/A2SV/tree/master/1818-maximum-score-from-removing-substrings) |
