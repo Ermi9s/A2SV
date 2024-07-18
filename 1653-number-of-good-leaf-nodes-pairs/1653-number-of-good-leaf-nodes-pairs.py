@@ -21,10 +21,9 @@ class Solution:
             
         dfs1(root)
         ans = 0
-        seen2 = set()
 
         def bfs(node):
-            nonlocal ans,distance,seen2
+            nonlocal ans,distance
             que = deque([node])
             seen = set()
             dis = 0
@@ -35,10 +34,9 @@ class Solution:
 
                 # print(curr.val , dis)
                 if not curr.left and not curr.right and curr != node:
-                    if dis <= distance and (node , curr) not in seen2:
-
+                    if dis <= distance:
+                        # print(node.val , curr.val , dis , ans)
                         ans += 1
-                        seen2.add((curr , node))
             
                 for nbr in graph[curr]:
                     if nbr not in seen:
@@ -59,7 +57,7 @@ class Solution:
 
         dfs(root)
 
-        return ans
+        return ans//2
 
 
     
