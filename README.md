@@ -18,6 +18,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1022-unique-paths-iii](https://github.com/Ermi9s/A2SV/tree/master/1022-unique-paths-iii) |
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Ermi9s/A2SV/tree/master/1333-sort-the-jumbled-numbers) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1559-cherry-pickup-ii](https://github.com/Ermi9s/A2SV/tree/master/1559-cherry-pickup-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -136,6 +137,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0164-maximum-gap](https://github.com/Ermi9s/A2SV/tree/master/0164-maximum-gap) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Ermi9s/A2SV/tree/master/1333-sort-the-jumbled-numbers) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ermi9s/A2SV/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
