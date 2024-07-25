@@ -104,6 +104,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Ermi9s/A2SV/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Ermi9s/A2SV/tree/master/0060-permutation-sequence) |
 | [1642-water-bottles](https://github.com/Ermi9s/A2SV/tree/master/1642-water-bottles) |
 | [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
