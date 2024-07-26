@@ -1,14 +1,3 @@
-func min(arr []int) int{
-    mini := 1000000;
-    for i := range len(arr) {
-        if arr[i] < mini {
-            mini = arr[i];
-        }
-    }
-    return mini;
-}
-
-
 func luckyNumbers (matrix [][]int) []int {
     row_ch := make(map[int]int)
     col_ch := make(map[int]int)
@@ -37,4 +26,14 @@ func luckyNumbers (matrix [][]int) []int {
     }
     return ans;
     
+}
+
+func min(arr []int) int{
+    mini := 1000000;
+    for i := range len(arr) {
+        if arr[i] < mini {
+            mini = arr[i];
+        }
+    }
+    return mini;
 }
