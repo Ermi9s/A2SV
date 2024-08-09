@@ -15,6 +15,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Ermi9s/A2SV/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
+| [0870-magic-squares-in-grid](https://github.com/Ermi9s/A2SV/tree/master/0870-magic-squares-in-grid) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/Ermi9s/A2SV/tree/master/0948-sort-an-array) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -103,6 +104,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
+| [0870-magic-squares-in-grid](https://github.com/Ermi9s/A2SV/tree/master/0870-magic-squares-in-grid) |
 | [1022-unique-paths-iii](https://github.com/Ermi9s/A2SV/tree/master/1022-unique-paths-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/Ermi9s/A2SV/tree/master/1559-cherry-pickup-ii) |
@@ -111,6 +113,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0009-palindrome-number](https://github.com/Ermi9s/A2SV/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Ermi9s/A2SV/tree/master/0060-permutation-sequence) |
+| [0870-magic-squares-in-grid](https://github.com/Ermi9s/A2SV/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Ermi9s/A2SV/tree/master/1642-water-bottles) |
 | [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
 | [2556-convert-the-temperature](https://github.com/Ermi9s/A2SV/tree/master/2556-convert-the-temperature) |
@@ -247,6 +250,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0001-two-sum](https://github.com/Ermi9s/A2SV/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ermi9s/A2SV/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0217-contains-duplicate](https://github.com/Ermi9s/A2SV/tree/master/0217-contains-duplicate) |
+| [0870-magic-squares-in-grid](https://github.com/Ermi9s/A2SV/tree/master/0870-magic-squares-in-grid) |
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ermi9s/A2SV/tree/master/1741-sort-array-by-increasing-frequency) |
