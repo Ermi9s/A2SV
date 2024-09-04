@@ -66,6 +66,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Ermi9s/A2SV/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+| [1300-critical-connections-in-a-network](https://github.com/Ermi9s/A2SV/tree/master/1300-critical-connections-in-a-network) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ermi9s/A2SV/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2176-parallel-courses-iii](https://github.com/Ermi9s/A2SV/tree/master/2176-parallel-courses-iii) |
 ## Topological Sort
@@ -84,6 +85,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1300-critical-connections-in-a-network](https://github.com/Ermi9s/A2SV/tree/master/1300-critical-connections-in-a-network) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ermi9s/A2SV/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
@@ -337,4 +339,8 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ermi9s/A2SV/tree/master/0948-sort-an-array) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Ermi9s/A2SV/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
