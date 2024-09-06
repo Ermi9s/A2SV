@@ -44,6 +44,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ermi9s/A2SV/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Ermi9s/A2SV/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ermi9s/A2SV/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Ermi9s/A2SV/tree/master/0087-scramble-string) |
@@ -211,6 +212,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ermi9s/A2SV/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ermi9s/A2SV/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Ermi9s/A2SV/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ermi9s/A2SV/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Ermi9s/A2SV/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Ermi9s/A2SV/tree/master/0115-distinct-subsequences) |
@@ -232,6 +234,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ermi9s/A2SV/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ermi9s/A2SV/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 | [0973-stamping-the-sequence](https://github.com/Ermi9s/A2SV/tree/master/0973-stamping-the-sequence) |
