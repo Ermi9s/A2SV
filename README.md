@@ -15,6 +15,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0217-contains-duplicate](https://github.com/Ermi9s/A2SV/tree/master/0217-contains-duplicate) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Ermi9s/A2SV/tree/master/0416-partition-equal-subset-sum) |
+| [0539-minimum-time-difference](https://github.com/Ermi9s/A2SV/tree/master/0539-minimum-time-difference) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Ermi9s/A2SV/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Ermi9s/A2SV/tree/master/0870-magic-squares-in-grid) |
@@ -123,6 +124,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0009-palindrome-number](https://github.com/Ermi9s/A2SV/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Ermi9s/A2SV/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Ermi9s/A2SV/tree/master/0070-climbing-stairs) |
+| [0539-minimum-time-difference](https://github.com/Ermi9s/A2SV/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/Ermi9s/A2SV/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Ermi9s/A2SV/tree/master/1642-water-bottles) |
 | [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
@@ -157,6 +159,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0164-maximum-gap](https://github.com/Ermi9s/A2SV/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Ermi9s/A2SV/tree/master/0217-contains-duplicate) |
+| [0539-minimum-time-difference](https://github.com/Ermi9s/A2SV/tree/master/0539-minimum-time-difference) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/Ermi9s/A2SV/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ermi9s/A2SV/tree/master/1333-sort-the-jumbled-numbers) |
@@ -224,6 +227,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0087-scramble-string](https://github.com/Ermi9s/A2SV/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Ermi9s/A2SV/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Ermi9s/A2SV/tree/master/0131-palindrome-partitioning) |
+| [0539-minimum-time-difference](https://github.com/Ermi9s/A2SV/tree/master/0539-minimum-time-difference) |
 | [0884-k-similar-strings](https://github.com/Ermi9s/A2SV/tree/master/0884-k-similar-strings) |
 | [0973-stamping-the-sequence](https://github.com/Ermi9s/A2SV/tree/master/0973-stamping-the-sequence) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
