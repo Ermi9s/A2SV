@@ -1,23 +1,15 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int memo[101];
-        fill(memo , memo+101 , -1);
+        int prev = 0;
+        int curr = 0;
 
-        function<int(int)> dp =[&](int ind) -> int {
-            if(ind >= nums.size()){
-                return 0;
-            }
+        for(int i = 0; i < nums.size(); ++i) {
+            int val = max(nums[i]+prev , curr);
+            prev = curr;
+            curr = val;
+        }
 
-            if(memo[ind] != -1) {
-                return memo[ind];
-            }
-
-            memo[ind] = max(dp(ind+1) , dp(ind+2) + nums[ind]);
-
-            return memo[ind];
-        };
-
-        return dp(0);
+        return curr;
     }
 };
