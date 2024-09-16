@@ -16,6 +16,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Ermi9s/A2SV/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/Ermi9s/A2SV/tree/master/0539-minimum-time-difference) |
+| [0740-delete-and-earn](https://github.com/Ermi9s/A2SV/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ermi9s/A2SV/tree/master/0747-min-cost-climbing-stairs) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Ermi9s/A2SV/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
@@ -59,6 +60,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0198-house-robber](https://github.com/Ermi9s/A2SV/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Ermi9s/A2SV/tree/master/0416-partition-equal-subset-sum) |
+| [0740-delete-and-earn](https://github.com/Ermi9s/A2SV/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ermi9s/A2SV/tree/master/0747-min-cost-climbing-stairs) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/Ermi9s/A2SV/tree/master/1013-fibonacci-number) |
@@ -271,6 +273,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0001-two-sum](https://github.com/Ermi9s/A2SV/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ermi9s/A2SV/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0217-contains-duplicate](https://github.com/Ermi9s/A2SV/tree/master/0217-contains-duplicate) |
+| [0740-delete-and-earn](https://github.com/Ermi9s/A2SV/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/Ermi9s/A2SV/tree/master/0870-magic-squares-in-grid) |
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
