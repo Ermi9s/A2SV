@@ -1,19 +1,19 @@
 class Solution {
 public:
-    int memo[46];
     int climbStairs(int n) {
-        if(n == 1){
+        int dp[2];
+        if(n == 1) {
             return 1;
         }
-        if(n == 2){
-            return 2;
+        dp[0] = 1;
+        dp[1] = 2;
+
+        for(int i = 2; i < n; ++i) {
+            int val = dp[0] + dp[1];
+            dp[0] = dp[1];
+            dp[1] = val;
         }
 
-        if(memo[n]){
-            return memo[n];
-        }
-        memo[n] = climbStairs(n-1) + climbStairs(n-2);
-
-        return memo[n];
+        return dp[1];
     }
 };
