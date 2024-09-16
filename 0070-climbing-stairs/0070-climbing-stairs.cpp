@@ -1,19 +1,19 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        int dp[2];
+        int prev,curr;
         if(n == 1) {
             return 1;
         }
-        dp[0] = 1;
-        dp[1] = 2;
+        prev = 1;
+        curr = 2;
 
         for(int i = 2; i < n; ++i) {
-            int val = dp[0] + dp[1];
-            dp[0] = dp[1];
-            dp[1] = val;
+            int val = prev + curr;
+            prev = curr;
+            curr = val;
         }
 
-        return dp[1];
+        return curr;
     }
 };
