@@ -15,6 +15,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0217-contains-duplicate](https://github.com/Ermi9s/A2SV/tree/master/0217-contains-duplicate) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Ermi9s/A2SV/tree/master/0416-partition-equal-subset-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Ermi9s/A2SV/tree/master/0539-minimum-time-difference) |
 | [0740-delete-and-earn](https://github.com/Ermi9s/A2SV/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ermi9s/A2SV/tree/master/0747-min-cost-climbing-stairs) |
@@ -166,6 +167,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0164-maximum-gap](https://github.com/Ermi9s/A2SV/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Ermi9s/A2SV/tree/master/0217-contains-duplicate) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Ermi9s/A2SV/tree/master/0539-minimum-time-difference) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/Ermi9s/A2SV/tree/master/0948-sort-an-array) |
@@ -190,6 +192,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Binary Search
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
 ## Tree
@@ -274,6 +277,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0001-two-sum](https://github.com/Ermi9s/A2SV/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ermi9s/A2SV/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0217-contains-duplicate](https://github.com/Ermi9s/A2SV/tree/master/0217-contains-duplicate) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0740-delete-and-earn](https://github.com/Ermi9s/A2SV/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/Ermi9s/A2SV/tree/master/0870-magic-squares-in-grid) |
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
@@ -317,6 +321,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Two Pointers
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0696-count-binary-substrings](https://github.com/Ermi9s/A2SV/tree/master/0696-count-binary-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 ## Rolling Hash
