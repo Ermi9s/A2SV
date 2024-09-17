@@ -235,6 +235,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0115-distinct-subsequences](https://github.com/Ermi9s/A2SV/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Ermi9s/A2SV/tree/master/0131-palindrome-partitioning) |
 | [0539-minimum-time-difference](https://github.com/Ermi9s/A2SV/tree/master/0539-minimum-time-difference) |
+| [0696-count-binary-substrings](https://github.com/Ermi9s/A2SV/tree/master/0696-count-binary-substrings) |
 | [0884-k-similar-strings](https://github.com/Ermi9s/A2SV/tree/master/0884-k-similar-strings) |
 | [0973-stamping-the-sequence](https://github.com/Ermi9s/A2SV/tree/master/0973-stamping-the-sequence) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -316,6 +317,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/Ermi9s/A2SV/tree/master/0696-count-binary-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 ## Rolling Hash
 |  |
