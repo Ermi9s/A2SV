@@ -65,6 +65,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0747-min-cost-climbing-stairs](https://github.com/Ermi9s/A2SV/tree/master/0747-min-cost-climbing-stairs) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/Ermi9s/A2SV/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Ermi9s/A2SV/tree/master/1250-longest-common-subsequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ermi9s/A2SV/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -245,6 +246,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ermi9s/A2SV/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ermi9s/A2SV/tree/master/1197-parsing-a-boolean-expression) |
+| [1250-longest-common-subsequence](https://github.com/Ermi9s/A2SV/tree/master/1250-longest-common-subsequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ermi9s/A2SV/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ermi9s/A2SV/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
