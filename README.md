@@ -8,6 +8,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ermi9s/A2SV/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Ermi9s/A2SV/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ermi9s/A2SV/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 | [0164-maximum-gap](https://github.com/Ermi9s/A2SV/tree/master/0164-maximum-gap) |
@@ -279,6 +280,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0001-two-sum](https://github.com/Ermi9s/A2SV/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ermi9s/A2SV/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/Ermi9s/A2SV/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Ermi9s/A2SV/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0740-delete-and-earn](https://github.com/Ermi9s/A2SV/tree/master/0740-delete-and-earn) |
