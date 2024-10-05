@@ -151,6 +151,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ermi9s/A2SV/tree/master/0234-palindrome-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Ermi9s/A2SV/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Greedy
 |  |
@@ -267,6 +268,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0032-longest-valid-parentheses](https://github.com/Ermi9s/A2SV/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ermi9s/A2SV/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
+| [0234-palindrome-linked-list](https://github.com/Ermi9s/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0973-stamping-the-sequence](https://github.com/Ermi9s/A2SV/tree/master/0973-stamping-the-sequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ermi9s/A2SV/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ermi9s/A2SV/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -302,6 +304,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0010-regular-expression-matching](https://github.com/Ermi9s/A2SV/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Ermi9s/A2SV/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Ermi9s/A2SV/tree/master/0060-permutation-sequence) |
+| [0234-palindrome-linked-list](https://github.com/Ermi9s/A2SV/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Ermi9s/A2SV/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ermi9s/A2SV/tree/master/1197-parsing-a-boolean-expression) |
 ## Sliding Window
@@ -332,6 +335,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ermi9s/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0696-count-binary-substrings](https://github.com/Ermi9s/A2SV/tree/master/0696-count-binary-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
