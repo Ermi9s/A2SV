@@ -245,6 +245,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0115-distinct-subsequences](https://github.com/Ermi9s/A2SV/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Ermi9s/A2SV/tree/master/0131-palindrome-partitioning) |
 | [0539-minimum-time-difference](https://github.com/Ermi9s/A2SV/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Ermi9s/A2SV/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Ermi9s/A2SV/tree/master/0696-count-binary-substrings) |
 | [0884-k-similar-strings](https://github.com/Ermi9s/A2SV/tree/master/0884-k-similar-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ermi9s/A2SV/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -289,6 +290,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0041-first-missing-positive](https://github.com/Ermi9s/A2SV/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Ermi9s/A2SV/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Ermi9s/A2SV/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/Ermi9s/A2SV/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/Ermi9s/A2SV/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ermi9s/A2SV/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -311,6 +313,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ermi9s/A2SV/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0567-permutation-in-string](https://github.com/Ermi9s/A2SV/tree/master/0567-permutation-in-string) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ermi9s/A2SV/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Stack
 |  |
@@ -337,6 +340,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ermi9s/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Ermi9s/A2SV/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Ermi9s/A2SV/tree/master/0696-count-binary-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ermi9s/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
