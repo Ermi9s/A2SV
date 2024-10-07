@@ -24,6 +24,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0740-delete-and-earn](https://github.com/Ermi9s/A2SV/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ermi9s/A2SV/tree/master/0747-min-cost-climbing-stairs) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Ermi9s/A2SV/tree/master/0814-smallest-rotation-with-highest-score) |
+| [0829-subdomain-visit-count](https://github.com/Ermi9s/A2SV/tree/master/0829-subdomain-visit-count) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Ermi9s/A2SV/tree/master/0870-magic-squares-in-grid) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -253,6 +254,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0539-minimum-time-difference](https://github.com/Ermi9s/A2SV/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Ermi9s/A2SV/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Ermi9s/A2SV/tree/master/0696-count-binary-substrings) |
+| [0829-subdomain-visit-count](https://github.com/Ermi9s/A2SV/tree/master/0829-subdomain-visit-count) |
 | [0884-k-similar-strings](https://github.com/Ermi9s/A2SV/tree/master/0884-k-similar-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ermi9s/A2SV/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0973-stamping-the-sequence](https://github.com/Ermi9s/A2SV/tree/master/0973-stamping-the-sequence) |
@@ -299,6 +301,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Ermi9s/A2SV/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/Ermi9s/A2SV/tree/master/0740-delete-and-earn) |
+| [0829-subdomain-visit-count](https://github.com/Ermi9s/A2SV/tree/master/0829-subdomain-visit-count) |
 | [0870-magic-squares-in-grid](https://github.com/Ermi9s/A2SV/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ermi9s/A2SV/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
@@ -399,6 +402,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ermi9s/A2SV/tree/master/0274-h-index) |
+| [0829-subdomain-visit-count](https://github.com/Ermi9s/A2SV/tree/master/0829-subdomain-visit-count) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ermi9s/A2SV/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Ermi9s/A2SV/tree/master/0948-sort-an-array) |
 ## Biconnected Component
