@@ -163,6 +163,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ermi9s/A2SV/tree/master/0044-wildcard-matching) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ermi9s/A2SV/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0973-stamping-the-sequence](https://github.com/Ermi9s/A2SV/tree/master/0973-stamping-the-sequence) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
@@ -259,6 +260,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0829-subdomain-visit-count](https://github.com/Ermi9s/A2SV/tree/master/0829-subdomain-visit-count) |
 | [0884-k-similar-strings](https://github.com/Ermi9s/A2SV/tree/master/0884-k-similar-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ermi9s/A2SV/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ermi9s/A2SV/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0973-stamping-the-sequence](https://github.com/Ermi9s/A2SV/tree/master/0973-stamping-the-sequence) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ermi9s/A2SV/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -283,6 +285,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0084-largest-rectangle-in-histogram](https://github.com/Ermi9s/A2SV/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Ermi9s/A2SV/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ermi9s/A2SV/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0973-stamping-the-sequence](https://github.com/Ermi9s/A2SV/tree/master/0973-stamping-the-sequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ermi9s/A2SV/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ermi9s/A2SV/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
