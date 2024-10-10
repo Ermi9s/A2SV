@@ -82,6 +82,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1637-string-compression-ii](https://github.com/Ermi9s/A2SV/tree/master/1637-string-compression-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ermi9s/A2SV/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ermi9s/A2SV/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ermi9s/A2SV/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Ermi9s/A2SV/tree/master/2176-parallel-courses-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ermi9s/A2SV/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Graph
@@ -93,11 +94,13 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Ermi9s/A2SV/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1300-critical-connections-in-a-network](https://github.com/Ermi9s/A2SV/tree/master/1300-critical-connections-in-a-network) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ermi9s/A2SV/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ermi9s/A2SV/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Ermi9s/A2SV/tree/master/2176-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ermi9s/A2SV/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Ermi9s/A2SV/tree/master/2176-parallel-courses-iii) |
 ## Depth-First Search
 |  |
@@ -395,6 +398,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0744-network-delay-time](https://github.com/Ermi9s/A2SV/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ermi9s/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Ermi9s/A2SV/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ermi9s/A2SV/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Bit Manipulation
 |  |
 | ------- |
