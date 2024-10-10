@@ -1,39 +1,53 @@
 class Solution:
     def countPaths(self, n: int, roads: List[List[int]]) -> int:
-        graph = defaultdict(list)
-        for a,b,w in roads:
-            graph[a].append((b , w))
-            graph[b].append((a , w))
-        
-        ways = [0]*n
-        ways[0] = 1
-        dis = [float('inf')]*n
-        dis[0] = 0
-        heap = [(0 , 0)]
-        pro = [0]*n
-
-        while heap:
-            d,node = heappop(heap)
-
-            if pro[node]:
-                continue
-            
-            pro[node] = 1
-
-            for nbr,w in graph[node]:
-                update = d+w
-                if update < dis[nbr]:
-                    dis[nbr] = update
-                    ways[nbr] = ways[node]%(int(1e9 + 7))
-                    heappush(heap , (update , nbr))
-                elif update == dis[nbr]:
-                    ways[nbr] += ways[node]%(int(1e9 + 7))
+        dp = [float('inf')]*n
+        dp[0] = 0
+        ways = [Counter() for _ in range(n)]
+        ways[0][0] = 1
+        mod=10**9+7
         
 
-        return ways[n-1]%(int(1e9 + 7))
+        for _ in range(n-1):
+            temp = dp[:]
+
+            for a,b,w in roads:
+                if temp[b] > dp[a] + w:
+                    temp[b] = dp[a] + w
+                    ways[b]=Counter()
+                    s=0
+                    for val in ways[a].values():
+                        s+=val
+                    ways[b][a] =s%mod
 
 
+                elif temp[b] == dp[a]+w:
+                    s=0
+                    for val in ways[a].values():
+                        s+=val
+                    ways[b][a] = s%mod
 
+                a,b=b,a
+                if temp[b] > dp[a] + w:
+                    temp[b] = dp[a] + w
+                    ways[b]=Counter()
+                    s=0
+                    for val in ways[a].values():
+                        s+=val
+                    ways[b][a] =s%mod
 
+                elif temp[b] == dp[a]+w:
+                    s=0
+                    for val in ways[a].values():
+                        s+=val
+                    ways[b][a] = s%mod
+
+            dp=temp[:]
+        s=0
+        for val in ways[n-1].values():
+            s+=val
+        # print(dp)
+        # print(ways)
+        return s%mod
 
         
+                
