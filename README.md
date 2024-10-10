@@ -30,6 +30,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/Ermi9s/A2SV/tree/master/0948-sort-an-array) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Ermi9s/A2SV/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1002-maximum-width-ramp](https://github.com/Ermi9s/A2SV/tree/master/1002-maximum-width-ramp) |
 | [1022-unique-paths-iii](https://github.com/Ermi9s/A2SV/tree/master/1022-unique-paths-iii) |
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
@@ -301,6 +302,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0234-palindrome-linked-list](https://github.com/Ermi9s/A2SV/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ermi9s/A2SV/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0973-stamping-the-sequence](https://github.com/Ermi9s/A2SV/tree/master/0973-stamping-the-sequence) |
+| [1002-maximum-width-ramp](https://github.com/Ermi9s/A2SV/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ermi9s/A2SV/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ermi9s/A2SV/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ermi9s/A2SV/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -354,6 +356,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ermi9s/A2SV/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
+| [1002-maximum-width-ramp](https://github.com/Ermi9s/A2SV/tree/master/1002-maximum-width-ramp) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ermi9s/A2SV/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Union Find
 |  |
