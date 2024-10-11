@@ -78,6 +78,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ermi9s/A2SV/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ermi9s/A2SV/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/Ermi9s/A2SV/tree/master/1559-cherry-pickup-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ermi9s/A2SV/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1637-string-compression-ii](https://github.com/Ermi9s/A2SV/tree/master/1637-string-compression-ii) |
@@ -94,6 +95,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ermi9s/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Ermi9s/A2SV/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1300-critical-connections-in-a-network](https://github.com/Ermi9s/A2SV/tree/master/1300-critical-connections-in-a-network) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ermi9s/A2SV/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ermi9s/A2SV/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ermi9s/A2SV/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Ermi9s/A2SV/tree/master/2176-parallel-courses-iii) |
@@ -401,6 +403,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0744-network-delay-time](https://github.com/Ermi9s/A2SV/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ermi9s/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Ermi9s/A2SV/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ermi9s/A2SV/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ermi9s/A2SV/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Bit Manipulation
 |  |
