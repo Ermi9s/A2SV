@@ -34,6 +34,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1022-unique-paths-iii](https://github.com/Ermi9s/A2SV/tree/master/1022-unique-paths-iii) |
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
+| [1325-path-with-maximum-probability](https://github.com/Ermi9s/A2SV/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ermi9s/A2SV/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
@@ -95,6 +96,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ermi9s/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Ermi9s/A2SV/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1300-critical-connections-in-a-network](https://github.com/Ermi9s/A2SV/tree/master/1300-critical-connections-in-a-network) |
+| [1325-path-with-maximum-probability](https://github.com/Ermi9s/A2SV/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ermi9s/A2SV/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ermi9s/A2SV/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ermi9s/A2SV/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -258,6 +260,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Ermi9s/A2SV/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [0948-sort-an-array](https://github.com/Ermi9s/A2SV/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/Ermi9s/A2SV/tree/master/1325-path-with-maximum-probability) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1794-minimize-deviation-in-array](https://github.com/Ermi9s/A2SV/tree/master/1794-minimize-deviation-in-array) |
 ## String
@@ -403,6 +406,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0744-network-delay-time](https://github.com/Ermi9s/A2SV/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ermi9s/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Ermi9s/A2SV/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+| [1325-path-with-maximum-probability](https://github.com/Ermi9s/A2SV/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ermi9s/A2SV/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ermi9s/A2SV/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Bit Manipulation
