@@ -47,6 +47,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1794-minimize-deviation-in-array](https://github.com/Ermi9s/A2SV/tree/master/1794-minimize-deviation-in-array) |
 | [1803-average-waiting-time](https://github.com/Ermi9s/A2SV/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/Ermi9s/A2SV/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ermi9s/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2176-parallel-courses-iii](https://github.com/Ermi9s/A2SV/tree/master/2176-parallel-courses-iii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ermi9s/A2SV/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Ermi9s/A2SV/tree/master/2502-sort-the-people) |
@@ -263,6 +264,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1325-path-with-maximum-probability](https://github.com/Ermi9s/A2SV/tree/master/1325-path-with-maximum-probability) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1794-minimize-deviation-in-array](https://github.com/Ermi9s/A2SV/tree/master/1794-minimize-deviation-in-array) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ermi9s/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## String
 |  |
 | ------- |
@@ -338,6 +340,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ermi9s/A2SV/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ermi9s/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ermi9s/A2SV/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Ermi9s/A2SV/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ermi9s/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
