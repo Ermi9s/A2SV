@@ -34,6 +34,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1002-maximum-width-ramp](https://github.com/Ermi9s/A2SV/tree/master/1002-maximum-width-ramp) |
 | [1022-unique-paths-iii](https://github.com/Ermi9s/A2SV/tree/master/1022-unique-paths-iii) |
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
+| [1206-corporate-flight-bookings](https://github.com/Ermi9s/A2SV/tree/master/1206-corporate-flight-bookings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/Ermi9s/A2SV/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ermi9s/A2SV/tree/master/1333-sort-the-jumbled-numbers) |
@@ -383,6 +384,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0814-smallest-rotation-with-highest-score](https://github.com/Ermi9s/A2SV/tree/master/0814-smallest-rotation-with-highest-score) |
+| [1206-corporate-flight-bookings](https://github.com/Ermi9s/A2SV/tree/master/1206-corporate-flight-bookings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ermi9s/A2SV/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Queue
 |  |
