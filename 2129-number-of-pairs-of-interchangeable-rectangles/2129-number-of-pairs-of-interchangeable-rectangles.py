@@ -5,8 +5,8 @@ class Solution:
         ans = 0
 
         for a,b in rectangles:
-            ans += count[Fraction(a , b)]
-            count[Fraction(a , b)] += 1
+            ans += count[a/b]
+            count[a/b] += 1
         
         return ans
 
