@@ -50,6 +50,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1803-average-waiting-time](https://github.com/Ermi9s/A2SV/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/Ermi9s/A2SV/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ermi9s/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ermi9s/A2SV/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2176-parallel-courses-iii](https://github.com/Ermi9s/A2SV/tree/master/2176-parallel-courses-iii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ermi9s/A2SV/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ermi9s/A2SV/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -164,6 +165,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1013-fibonacci-number](https://github.com/Ermi9s/A2SV/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/Ermi9s/A2SV/tree/master/1642-water-bottles) |
 | [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ermi9s/A2SV/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2556-convert-the-temperature](https://github.com/Ermi9s/A2SV/tree/master/2556-convert-the-temperature) |
 ## Simulation
 |  |
@@ -350,6 +352,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ermi9s/A2SV/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ermi9s/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ermi9s/A2SV/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ermi9s/A2SV/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Ermi9s/A2SV/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ermi9s/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -459,6 +462,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0829-subdomain-visit-count](https://github.com/Ermi9s/A2SV/tree/master/0829-subdomain-visit-count) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ermi9s/A2SV/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Ermi9s/A2SV/tree/master/0948-sort-an-array) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ermi9s/A2SV/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -467,4 +471,8 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ermi9s/A2SV/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
