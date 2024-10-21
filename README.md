@@ -58,6 +58,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ermi9s/A2SV/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ermi9s/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/Ermi9s/A2SV/tree/master/2727-number-of-senior-citizens) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ermi9s/A2SV/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2846-robot-collisions](https://github.com/Ermi9s/A2SV/tree/master/2846-robot-collisions) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Ermi9s/A2SV/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ermi9s/A2SV/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -197,6 +198,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ermi9s/A2SV/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ermi9s/A2SV/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ermi9s/A2SV/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ermi9s/A2SV/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Sorting
 |  |
