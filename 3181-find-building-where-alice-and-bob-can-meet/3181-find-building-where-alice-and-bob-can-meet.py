@@ -62,14 +62,3 @@ class Solution:
             # print(".....")
             l += 1
         return ans
-
-
-
-
-
-
-
-
-
-
-                
