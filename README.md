@@ -61,6 +61,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ermi9s/A2SV/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2846-robot-collisions](https://github.com/Ermi9s/A2SV/tree/master/2846-robot-collisions) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Ermi9s/A2SV/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ermi9s/A2SV/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Dynamic Programming
 |  |
@@ -240,6 +241,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
 | ------- |
@@ -278,6 +280,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1794-minimize-deviation-in-array](https://github.com/Ermi9s/A2SV/tree/master/1794-minimize-deviation-in-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ermi9s/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ermi9s/A2SV/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## String
 |  |
 | ------- |
@@ -332,6 +335,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ermi9s/A2SV/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ermi9s/A2SV/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Ermi9s/A2SV/tree/master/2846-robot-collisions) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
 | ------- |
@@ -381,6 +385,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/Ermi9s/A2SV/tree/master/1002-maximum-width-ramp) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ermi9s/A2SV/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Union Find
 |  |
 | ------- |
@@ -479,4 +484,12 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ermi9s/A2SV/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
