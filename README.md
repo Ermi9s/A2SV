@@ -17,6 +17,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0215-kth-largest-element-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ermi9s/A2SV/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Ermi9s/A2SV/tree/master/0274-h-index) |
+| [0307-range-sum-query-mutable](https://github.com/Ermi9s/A2SV/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ermi9s/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Ermi9s/A2SV/tree/master/0416-partition-equal-subset-sum) |
@@ -262,6 +263,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ermi9s/A2SV/tree/master/0307-range-sum-query-mutable) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
@@ -494,9 +496,11 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ermi9s/A2SV/tree/master/0307-range-sum-query-mutable) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ermi9s/A2SV/tree/master/0307-range-sum-query-mutable) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
