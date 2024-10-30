@@ -46,6 +46,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1720-crawler-log-folder](https://github.com/Ermi9s/A2SV/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ermi9s/A2SV/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ermi9s/A2SV/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ermi9s/A2SV/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1794-minimize-deviation-in-array](https://github.com/Ermi9s/A2SV/tree/master/1794-minimize-deviation-in-array) |
 | [1803-average-waiting-time](https://github.com/Ermi9s/A2SV/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/Ermi9s/A2SV/tree/master/1923-sentence-similarity-iii) |
@@ -94,6 +95,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1637-string-compression-ii](https://github.com/Ermi9s/A2SV/tree/master/1637-string-compression-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ermi9s/A2SV/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ermi9s/A2SV/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ermi9s/A2SV/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ermi9s/A2SV/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2176-parallel-courses-iii](https://github.com/Ermi9s/A2SV/tree/master/2176-parallel-courses-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ermi9s/A2SV/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -195,6 +197,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Ermi9s/A2SV/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ermi9s/A2SV/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1794-minimize-deviation-in-array](https://github.com/Ermi9s/A2SV/tree/master/1794-minimize-deviation-in-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ermi9s/A2SV/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
@@ -242,6 +245,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ermi9s/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ermi9s/A2SV/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
