@@ -60,6 +60,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ermi9s/A2SV/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ermi9s/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ermi9s/A2SV/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Ermi9s/A2SV/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Ermi9s/A2SV/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ermi9s/A2SV/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2846-robot-collisions](https://github.com/Ermi9s/A2SV/tree/master/2846-robot-collisions) |
@@ -227,6 +228,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ermi9s/A2SV/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Ermi9s/A2SV/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ermi9s/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Ermi9s/A2SV/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Ermi9s/A2SV/tree/master/2846-robot-collisions) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ermi9s/A2SV/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Bucket Sort
@@ -248,6 +250,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ermi9s/A2SV/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Ermi9s/A2SV/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
@@ -424,6 +427,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ermi9s/A2SV/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ermi9s/A2SV/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ermi9s/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Ermi9s/A2SV/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Ermi9s/A2SV/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Rolling Hash
 |  |
