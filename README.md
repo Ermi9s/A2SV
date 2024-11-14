@@ -54,6 +54,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ermi9s/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ermi9s/A2SV/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2176-parallel-courses-iii](https://github.com/Ermi9s/A2SV/tree/master/2176-parallel-courses-iii) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ermi9s/A2SV/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ermi9s/A2SV/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ermi9s/A2SV/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Ermi9s/A2SV/tree/master/2502-sort-the-people) |
@@ -250,6 +251,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ermi9s/A2SV/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ermi9s/A2SV/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ermi9s/A2SV/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
