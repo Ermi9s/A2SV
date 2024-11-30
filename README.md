@@ -10,6 +10,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0001-two-sum](https://github.com/Ermi9s/A2SV/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ermi9s/A2SV/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Ermi9s/A2SV/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/Ermi9s/A2SV/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ermi9s/A2SV/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 | [0164-maximum-gap](https://github.com/Ermi9s/A2SV/tree/master/0164-maximum-gap) |
@@ -353,6 +354,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ermi9s/A2SV/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Ermi9s/A2SV/tree/master/0131-palindrome-partitioning) |
 | [1022-unique-paths-iii](https://github.com/Ermi9s/A2SV/tree/master/1022-unique-paths-iii) |
 ## Hash Table
@@ -455,6 +457,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ermi9s/A2SV/tree/master/0078-subsets) |
 | [1022-unique-paths-iii](https://github.com/Ermi9s/A2SV/tree/master/1022-unique-paths-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ermi9s/A2SV/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Minimum Spanning Tree
