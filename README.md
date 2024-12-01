@@ -40,6 +40,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/Ermi9s/A2SV/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ermi9s/A2SV/tree/master/1333-sort-the-jumbled-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Ermi9s/A2SV/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1559-cherry-pickup-ii](https://github.com/Ermi9s/A2SV/tree/master/1559-cherry-pickup-ii) |
@@ -223,6 +224,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Ermi9s/A2SV/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0948-sort-an-array](https://github.com/Ermi9s/A2SV/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ermi9s/A2SV/tree/master/1333-sort-the-jumbled-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Ermi9s/A2SV/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ermi9s/A2SV/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ermi9s/A2SV/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -250,6 +252,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ermi9s/A2SV/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Ermi9s/A2SV/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ermi9s/A2SV/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1861-building-boxes](https://github.com/Ermi9s/A2SV/tree/master/1861-building-boxes) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Ermi9s/A2SV/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -373,6 +376,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ermi9s/A2SV/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Ermi9s/A2SV/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ermi9s/A2SV/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ermi9s/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ermi9s/A2SV/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -427,6 +431,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0567-permutation-in-string](https://github.com/Ermi9s/A2SV/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Ermi9s/A2SV/tree/master/0696-count-binary-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Ermi9s/A2SV/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/Ermi9s/A2SV/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ermi9s/A2SV/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ermi9s/A2SV/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
