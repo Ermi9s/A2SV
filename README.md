@@ -324,6 +324,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ermi9s/A2SV/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ermi9s/A2SV/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ermi9s/A2SV/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1637-string-compression-ii](https://github.com/Ermi9s/A2SV/tree/master/1637-string-compression-ii) |
 | [1720-crawler-log-folder](https://github.com/Ermi9s/A2SV/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Ermi9s/A2SV/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -432,6 +433,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0696-count-binary-substrings](https://github.com/Ermi9s/A2SV/tree/master/0696-count-binary-substrings) |
 | [1251-longest-chunked-palindrome-decomposition](https://github.com/Ermi9s/A2SV/tree/master/1251-longest-chunked-palindrome-decomposition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ermi9s/A2SV/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ermi9s/A2SV/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/Ermi9s/A2SV/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ermi9s/A2SV/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ermi9s/A2SV/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -517,4 +519,8 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Ermi9s/A2SV/tree/master/0307-range-sum-query-mutable) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ermi9s/A2SV/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
