@@ -77,6 +77,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0032-longest-valid-parentheses](https://github.com/Ermi9s/A2SV/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ermi9s/A2SV/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Ermi9s/A2SV/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Ermi9s/A2SV/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Ermi9s/A2SV/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Ermi9s/A2SV/tree/master/0115-distinct-subsequences) |
@@ -306,6 +307,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ermi9s/A2SV/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Ermi9s/A2SV/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ermi9s/A2SV/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/Ermi9s/A2SV/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Ermi9s/A2SV/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Ermi9s/A2SV/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Ermi9s/A2SV/tree/master/0131-palindrome-partitioning) |
