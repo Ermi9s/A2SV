@@ -10,6 +10,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0001-two-sum](https://github.com/Ermi9s/A2SV/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ermi9s/A2SV/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Ermi9s/A2SV/tree/master/0041-first-missing-positive) |
+| [0056-merge-intervals](https://github.com/Ermi9s/A2SV/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Ermi9s/A2SV/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ermi9s/A2SV/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ermi9s/A2SV/tree/master/0085-maximal-rectangle) |
@@ -215,6 +216,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ermi9s/A2SV/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Ermi9s/A2SV/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ermi9s/A2SV/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ermi9s/A2SV/tree/master/0217-contains-duplicate) |
