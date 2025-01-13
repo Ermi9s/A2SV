@@ -339,6 +339,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2502-sort-the-people](https://github.com/Ermi9s/A2SV/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ermi9s/A2SV/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ermi9s/A2SV/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Ermi9s/A2SV/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -388,6 +389,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ermi9s/A2SV/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Ermi9s/A2SV/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ermi9s/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Ermi9s/A2SV/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -501,6 +503,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ermi9s/A2SV/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Ermi9s/A2SV/tree/master/0948-sort-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ermi9s/A2SV/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Ermi9s/A2SV/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Biconnected Component
 |  |
 | ------- |
