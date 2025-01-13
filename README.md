@@ -110,6 +110,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0685-redundant-connection-ii](https://github.com/Ermi9s/A2SV/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/Ermi9s/A2SV/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ermi9s/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/Ermi9s/A2SV/tree/master/0918-reachable-nodes-in-subdivided-graph) |
@@ -131,6 +132,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ermi9s/A2SV/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ermi9s/A2SV/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0685-redundant-connection-ii](https://github.com/Ermi9s/A2SV/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/Ermi9s/A2SV/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ermi9s/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
@@ -145,6 +147,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ermi9s/A2SV/tree/master/0199-binary-tree-right-side-view) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0685-redundant-connection-ii](https://github.com/Ermi9s/A2SV/tree/master/0685-redundant-connection-ii) |
 | [0744-network-delay-time](https://github.com/Ermi9s/A2SV/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ermi9s/A2SV/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
@@ -416,6 +419,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 ## Union Find
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/Ermi9s/A2SV/tree/master/0685-redundant-connection-ii) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ermi9s/A2SV/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Prefix Sum
