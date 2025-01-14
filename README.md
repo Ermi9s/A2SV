@@ -66,6 +66,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ermi9s/A2SV/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ermi9s/A2SV/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Ermi9s/A2SV/tree/master/2727-number-of-senior-citizens) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ermi9s/A2SV/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ermi9s/A2SV/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2846-robot-collisions](https://github.com/Ermi9s/A2SV/tree/master/2846-robot-collisions) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Ermi9s/A2SV/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -392,6 +393,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ermi9s/A2SV/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Ermi9s/A2SV/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ermi9s/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ermi9s/A2SV/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ermi9s/A2SV/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
 |  |
@@ -476,6 +478,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0078-subsets](https://github.com/Ermi9s/A2SV/tree/master/0078-subsets) |
 | [1022-unique-paths-iii](https://github.com/Ermi9s/A2SV/tree/master/1022-unique-paths-iii) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ermi9s/A2SV/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ermi9s/A2SV/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Minimum Spanning Tree
 |  |
