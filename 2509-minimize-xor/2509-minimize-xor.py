@@ -13,7 +13,7 @@ class Solution:
                 count -= 1
             c -= 1
         c = 0
-        print(count)
+
         while count:
             if not ((1 << c) & num1):
                 x |= (1 << c)
