@@ -53,6 +53,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ermi9s/A2SV/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1794-minimize-deviation-in-array](https://github.com/Ermi9s/A2SV/tree/master/1794-minimize-deviation-in-array) |
 | [1803-average-waiting-time](https://github.com/Ermi9s/A2SV/tree/master/1803-average-waiting-time) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Ermi9s/A2SV/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1923-sentence-similarity-iii](https://github.com/Ermi9s/A2SV/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ermi9s/A2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ermi9s/A2SV/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -479,6 +480,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0078-subsets](https://github.com/Ermi9s/A2SV/tree/master/0078-subsets) |
 | [1022-unique-paths-iii](https://github.com/Ermi9s/A2SV/tree/master/1022-unique-paths-iii) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Ermi9s/A2SV/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2509-minimize-xor](https://github.com/Ermi9s/A2SV/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ermi9s/A2SV/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ermi9s/A2SV/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -539,4 +541,8 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ermi9s/A2SV/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Trie
+|  |
+| ------- |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Ermi9s/A2SV/tree/master/1826-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
