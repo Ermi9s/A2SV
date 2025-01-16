@@ -63,6 +63,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ermi9s/A2SV/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Ermi9s/A2SV/tree/master/2502-sort-the-people) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Ermi9s/A2SV/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ermi9s/A2SV/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ermi9s/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ermi9s/A2SV/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ermi9s/A2SV/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -482,6 +483,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1022-unique-paths-iii](https://github.com/Ermi9s/A2SV/tree/master/1022-unique-paths-iii) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Ermi9s/A2SV/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2509-minimize-xor](https://github.com/Ermi9s/A2SV/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ermi9s/A2SV/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ermi9s/A2SV/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ermi9s/A2SV/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Minimum Spanning Tree
@@ -545,4 +547,8 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 |  |
 | ------- |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Ermi9s/A2SV/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ermi9s/A2SV/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
