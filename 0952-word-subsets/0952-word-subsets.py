@@ -13,7 +13,6 @@ class Solution:
         for word in words2:
             check(word)
         
-        print(max_occ)
         def validate(word):
             temp = [0] * 26
 
