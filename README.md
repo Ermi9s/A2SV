@@ -71,6 +71,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2727-number-of-senior-citizens](https://github.com/Ermi9s/A2SV/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ermi9s/A2SV/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Ermi9s/A2SV/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2792-neighboring-bitwise-xor](https://github.com/Ermi9s/A2SV/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/Ermi9s/A2SV/tree/master/2846-robot-collisions) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Ermi9s/A2SV/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Ermi9s/A2SV/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -488,6 +489,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [2509-minimize-xor](https://github.com/Ermi9s/A2SV/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ermi9s/A2SV/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ermi9s/A2SV/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Ermi9s/A2SV/tree/master/2792-neighboring-bitwise-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Ermi9s/A2SV/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Minimum Spanning Tree
 |  |
