@@ -42,6 +42,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/Ermi9s/A2SV/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ermi9s/A2SV/tree/master/1333-sort-the-jumbled-numbers) |
+| [1396-count-servers-that-communicate](https://github.com/Ermi9s/A2SV/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ermi9s/A2SV/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1499-maximum-performance-of-a-team](https://github.com/Ermi9s/A2SV/tree/master/1499-maximum-performance-of-a-team) |
@@ -146,6 +147,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [1207-delete-nodes-and-return-forest](https://github.com/Ermi9s/A2SV/tree/master/1207-delete-nodes-and-return-forest) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1300-critical-connections-in-a-network](https://github.com/Ermi9s/A2SV/tree/master/1300-critical-connections-in-a-network) |
+| [1396-count-servers-that-communicate](https://github.com/Ermi9s/A2SV/tree/master/1396-count-servers-that-communicate) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ermi9s/A2SV/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
@@ -159,6 +161,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0884-k-similar-strings](https://github.com/Ermi9s/A2SV/tree/master/0884-k-similar-strings) |
 | [1106-escape-a-large-maze](https://github.com/Ermi9s/A2SV/tree/master/1106-escape-a-large-maze) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Ermi9s/A2SV/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1396-count-servers-that-communicate](https://github.com/Ermi9s/A2SV/tree/master/1396-count-servers-that-communicate) |
 ## Memoization
 |  |
 | ------- |
@@ -173,6 +176,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Ermi9s/A2SV/tree/master/0870-magic-squares-in-grid) |
 | [1022-unique-paths-iii](https://github.com/Ermi9s/A2SV/tree/master/1022-unique-paths-iii) |
+| [1396-count-servers-that-communicate](https://github.com/Ermi9s/A2SV/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ermi9s/A2SV/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/Ermi9s/A2SV/tree/master/1559-cherry-pickup-ii) |
 ## Math
@@ -430,6 +434,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Ermi9s/A2SV/tree/master/0685-redundant-connection-ii) |
 | [0854-making-a-large-island](https://github.com/Ermi9s/A2SV/tree/master/0854-making-a-large-island) |
+| [1396-count-servers-that-communicate](https://github.com/Ermi9s/A2SV/tree/master/1396-count-servers-that-communicate) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ermi9s/A2SV/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Prefix Sum
 |  |
@@ -520,6 +525,7 @@ This is a repository dedicated for the problems I practiced and solved on leetco
 | [0829-subdomain-visit-count](https://github.com/Ermi9s/A2SV/tree/master/0829-subdomain-visit-count) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ermi9s/A2SV/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Ermi9s/A2SV/tree/master/0948-sort-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/Ermi9s/A2SV/tree/master/1396-count-servers-that-communicate) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Ermi9s/A2SV/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ermi9s/A2SV/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Biconnected Component
